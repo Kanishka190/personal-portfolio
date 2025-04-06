@@ -47,7 +47,7 @@ const About = () => {
                         Hey there! I'm a software engineer with a passion for building scalable and efficient systems.
                         I'm currently doing my internship on MERN stack development!!!. <br /><br />
                         🔍 What I Know: <br />
-                        ✔ Frontend: React.js, Next.js, Tailwind CSS <br />
+                        ✔ Frontend: React.js, Tailwind CSS <br />
                         ✔ Backend: Node.js, Express.js <br />
                         ✔ Database: MongoDB, MySQL  <br />
                         ✔ Other Skills: API development, Git/GitHub, Cloud Deployment
